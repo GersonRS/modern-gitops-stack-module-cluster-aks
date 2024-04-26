@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/GersonRS/modern-gitops-stack-module-cluster-aks/compare/v1.0.0...v1.1.0) (2024-04-26)
+
+
+### Features
+
+* **docs:** update documentation ([8d42641](https://github.com/GersonRS/modern-gitops-stack-module-cluster-aks/commit/8d426413c4206d9829c124c0bff7ce88aa9780dc))
+
 ## 1.0.0 (2024-04-24)
 
 
